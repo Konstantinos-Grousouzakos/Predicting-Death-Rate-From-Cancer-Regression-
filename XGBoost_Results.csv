@@ -1,0 +1,5 @@
+Metrics,XGBoost
+R^2,0.886
+Training_MSE,82.18
+Training_MSE (KFold),319.1
+Test_MSE,253.82

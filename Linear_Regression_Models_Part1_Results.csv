@@ -1,0 +1,5 @@
+Metrics,PCR,PCR (2nd Degree)
+R^2,0.483,0.497
+Training_MSE,373.72,363.41
+Training_MSE (KFold),385.9,396.3
+Test_MSE,515.84,473.87

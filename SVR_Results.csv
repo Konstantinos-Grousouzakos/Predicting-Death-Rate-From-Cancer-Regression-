@@ -1,0 +1,5 @@
+Metrics,SVR
+R^2,0.505
+Training_MSE,357.68
+Training_MSE (KFold),367.7
+Test_MSE,309.22

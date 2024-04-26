@@ -1,0 +1,5 @@
+Metrics,Ridge Regression,Lasso Regression
+R^2,0.512,0.512
+Training_MSE,352.83,352.89
+Training_MSE (KFold),369.6,369.7
+Test_MSE,314.35,314.25

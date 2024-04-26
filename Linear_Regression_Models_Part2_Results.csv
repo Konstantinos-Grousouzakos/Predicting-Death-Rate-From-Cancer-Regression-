@@ -1,0 +1,5 @@
+Metrics,Forward Selection,Backwards Elimination,Stepwise Selection
+R^2,0.5,0.507,0.499
+Training_MSE,361.3,356.0,361.87
+Training_MSE (KFold),371.9,366.5,371.2
+Test_MSE,323.14,311.26,327.94

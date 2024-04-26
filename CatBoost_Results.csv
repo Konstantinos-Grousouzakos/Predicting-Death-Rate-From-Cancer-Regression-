@@ -1,0 +1,5 @@
+Metrics,CatBoost
+R^2,0.685
+Training_MSE,228.04
+Training_MSE (KFold),336.0
+Test_MSE,280.97

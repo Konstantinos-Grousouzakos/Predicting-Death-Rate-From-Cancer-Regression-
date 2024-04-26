@@ -1,0 +1,5 @@
+Metrics,Bagging,Random Forest
+R^2,0.71,0.4
+Training_MSE,209.44,433.72
+Training_MSE (KFold),410.7,456.7
+Test_MSE,341.32,375.03

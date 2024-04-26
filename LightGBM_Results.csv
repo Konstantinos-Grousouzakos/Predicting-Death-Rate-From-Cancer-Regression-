@@ -1,0 +1,5 @@
+Metrics,LightGBM
+R^2,0.839
+Training_MSE,116.43
+Training_MSE (KFold),275.2
+Test_MSE,200.46
